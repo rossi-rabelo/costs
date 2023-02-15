@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "name": "chatGPT",
+      "budget": "8000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 6500,
+      "services": [
+        {
+          "name": "Serviço teste",
+          "cost": "6500",
+          "description": "Teste maneiro",
+          "id": "0c77c93d-548f-447f-9fd0-9690bcfd4fca"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Hogwarts Legacy",
+      "budget": "10000000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 12345,
+      "services": [
+        {
+          "name": "teste3",
+          "cost": "12345",
+          "description": "teste",
+          "id": "210e32c5-d60c-47af-b8e6-03e846a2fc6e"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
